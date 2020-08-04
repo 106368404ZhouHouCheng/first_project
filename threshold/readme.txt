@@ -34,4 +34,4 @@ Given its simplicity, this method is a good choice as a first approach when pres
 
 
 1.壓力影像（Bedsheet Sensor Raw Pressure Map）20 * 11 = 220 
-2.前處理 Part 1（Pre-Processing Part1）:定門檻值(Threshold)，將低於門檻值的壓力值變為0，等於或大於的則保持其原來的壓力值，則得到新的壓力影像（New Pressure Image），本論文定的門檻值設定為33。
+2.前處理 Part 1（Pre-Processing Part1）:定門檻值(Threshold)，將低於門檻值的壓力值變為0，等於或大於的則保持其原來的壓力值，則得到新的壓力影像（New Pressure Image），本論文定的門檻值設定為22。
